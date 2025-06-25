@@ -21,4 +21,4 @@ Unlike : PicPurify or expensive commercial alternatives
 our product : offers competitive detection accuracy with much lower pricing and simple integration
 
 
-
+iydot8iy[
