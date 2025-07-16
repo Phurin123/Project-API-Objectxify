@@ -1,9 +1,9 @@
 ทีม TBR888
 Project บริการ API ตรวจจับวัตถุไม่เหมาะสม 
 👥 Team Members
-- Ton - Product Owner, Front endfull
-- Rin - Backend Full
-- Ball - AI Engineer
+- Ton - Product Owner, Front endfull (66020767 นายธนกฤต เเซ่จ๋าว)
+- Rin - Backend Full (66020981 นายภูรินทร์ สุขมั่น)
+- Ball - AI Engineer (66020600 นายคงกะพัน เขียวสด)
 
 🎯 Product Vision Statement
 
